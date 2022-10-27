@@ -43,7 +43,7 @@
 #         a.update(i)
 #     return a
 # print(dictir(lst))
-
+fds
 
 
 
